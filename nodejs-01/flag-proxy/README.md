@@ -1,0 +1,26 @@
+# flag-proxy acts as a Unleash Proxy
+
+## How to start
+
+```bash
+npm install
+npm run start
+
+# or
+
+yarn
+yarn start
+```
+
+## Proxy Secerts
+
+- `proxy-secret-key-1`
+- `proxy-secret-key-2`
+
+## Connection Information
+
+- <http//localhost:4000/proxy>
+
+## Reference
+
+- <https://www.npmjs.com/package/@unleash/proxy>
