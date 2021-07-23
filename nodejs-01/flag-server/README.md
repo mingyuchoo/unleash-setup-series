@@ -3,12 +3,6 @@
 ## How to start
 
 ```bash
-npm install
-npm run start
-
-# or
-
-yarn
 yarn start
 ```
 

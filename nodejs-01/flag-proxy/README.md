@@ -1,14 +1,16 @@
 # flag-proxy acts as a Unleash Proxy
 
+## How to install modules
+
+```bash
+yarn install
+rm -rf node_modules
+yarn install --offline
+```
+
 ## How to start
 
 ```bash
-npm install
-npm run start
-
-# or
-
-yarn
 yarn start
 ```
 
